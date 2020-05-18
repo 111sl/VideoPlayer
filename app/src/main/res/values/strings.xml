@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="otherText">otherText</string>
+    <string name="viewText">viewText</string>
+</resources>
